@@ -1,5 +1,7 @@
 # Kubernetes
 
+A scalable, stateless application
+
 ## Run on your computer
 
 Start your minikube cluster
